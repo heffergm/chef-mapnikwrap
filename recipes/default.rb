@@ -8,4 +8,5 @@
 #
 
 include_recipe 'mapnik::default'
+include_recipe 'mapnikwrap::carto'
 
