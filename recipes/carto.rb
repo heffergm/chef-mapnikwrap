@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package 'git'
+include_recipe 'git'
 
 git 'openstreetmap_carto' do
   repository 'https://github.com/gravitystorm/openstreetmap-carto.git'
