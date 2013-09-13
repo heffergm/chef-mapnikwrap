@@ -1,0 +1,39 @@
+{
+  "sources": {
+    "git": {
+      "locked_version": "2.6.0"
+    },
+    "mapnikwrap": {
+      "path": "."
+    },
+    "mapnik": {
+      "locked_version": "0.0.1",
+      "git": "https://github.com/marsam/cookbook-mapnik.git",
+      "ref": "1ccfc15d6c54a7500a7c6b271c1b06ffd6c95c30"
+    },
+    "dmg": {
+      "locked_version": "2.0.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "yum": {
+      "locked_version": "2.3.2"
+    },
+    "windows": {
+      "locked_version": "1.10.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.2.0"
+    },
+    "apt": {
+      "locked_version": "2.1.1"
+    },
+    "ark": {
+      "locked_version": "0.3.2"
+    }
+  }
+}
